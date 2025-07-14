@@ -16,7 +16,7 @@
 
 ## Overview
 
-**TechAI** is an innovative solution designed to transform the retail and e-commerce landscape using the power of AI. Developed as part of the **Champion Trials-48 Hour Challenge**, this project leverages machine learning and AI-driven tools to enhance the customer experience, streamline shopping, and boost operational efficiency.
+**TechAI** is an innovative solution designed to transform the retail and e-commerce landscape using the power of AI.this project leverages machine learning and AI-driven tools to enhance the customer experience, streamline shopping, and boost operational efficiency.
 
 The system combines AI-powered recommendations, a chatbot for customer interaction, a loyalty and rewards system, and advanced admin features to provide a seamless shopping experience.
 
