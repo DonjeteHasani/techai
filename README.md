@@ -146,21 +146,6 @@ The system combines AI-powered recommendations, a chatbot for customer interacti
 
 ---
 
-## Future Enhancements
 
-1. Introduce voice-enabled interaction for the chatbot.
-2. Integrate payment gateways for real-world transactions.
-3. Add multi-language support for a global audience.
-4. Upgrade the recommendation engine with deep learning for better personalization.
-5. Develop tier-based loyalty programs to offer premium perks for frequent shoppers.
-6. Enhance sales forecasting with AI-driven predictive analytics.
-
----
-
-## Acknowledgments
-
-This project was created as part of the **Champion Trials-48 Hour Challenge** hackathon. Special thanks to the organizers, mentors, for their support and guidance.
-
----
 
 
