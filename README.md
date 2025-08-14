@@ -54,17 +54,7 @@ The system combines AI-powered recommendations, a chatbot for customer interacti
 
 ---
 
-## Technologies Used
 
-1. **Backend**: PHP
-2. **Database**: MySQL
-3. **Frontend**: HTML, CSS, JavaScript
-4. **AI Integration**:
-   - Recommendation Engine
-   - Chatbot Framework
-5. **Tools**:
-   - Libraries for PDF generation
-   - Database connection and handling
 
 ---
 
